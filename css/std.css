@@ -1,0 +1,5 @@
+﻿body { margin:0;}
+#tryckHolder {margin:0 auto; width:800px;}
+#tryckHolder div { margin:10px 0 50px 0; width:398px; float:left; border-left:solid 1px rgb(221,221,221); border-right:solid 1px rgb(201,201,201); border-collapse:separate; }
+#tryckHolder span img{ margin-top:17px;}
+
